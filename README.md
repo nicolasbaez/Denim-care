@@ -2,7 +2,7 @@
 Ray of light
 
 
-![buh](https://github.com/nicolasbaez/Superb-tang/blob/main/xp026.gif)
+![buh](https://github.com/nicolasbaez/Denim-care/blob/main/xp026.gif)
 ```javascript
 setup = (_) => createCanvas((w = 500), w, WEBGL);
 n = 90;
